@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ViewWPF.MainWindow" Collapsed="true">
+    <Position X="1.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAgAAAAAAAAAAAIIAAAAAAAAAAAAQAAAAABAAAA=</HashCode>
+      <FileName>MainWindow.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ViewWPF.Menu.ViewMenuItemWPF" Collapsed="true">
+    <Position X="1.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAIAAAAAAgAAAGAAAAAAAAAAAEAEAAAAAAAAAAA=</HashCode>
+      <FileName>Menu\ViewMenuItemWPF.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ViewWPF.Menu.Pages.ViewFailMenuWPF" Collapsed="true">
+    <Position X="3.75" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EABAAggAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Menu\Pages\ViewFailMenuWPF.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ViewWPF.Menu.Pages.ViewLevelsMenuWPF" Collapsed="true">
+    <Position X="3.75" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EABAAggAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Menu\Pages\ViewLevelsMenuWPF.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ViewWPF.Menu.Pages.ViewMainMenuWPF" Collapsed="true">
+    <Position X="3.75" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EABAAgAAAAAAAgAAAAAAAAAAAAAAAAAAAAACAAAAAAA=</HashCode>
+      <FileName>Menu\Pages\ViewMainMenuWPF.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ViewWPF.Menu.Pages.ViewRatingMenuWPF" Collapsed="true">
+    <Position X="7.25" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EABAAggAAAAAAgAAAAAAAAAAAAAAAQAAAAAAAAAAAEA=</HashCode>
+      <FileName>Menu\Pages\ViewRatingMenuWPF.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ViewWPF.Menu.Pages.ViewResultMenuWPF" Collapsed="true">
+    <Position X="5.5" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EABAAggAAAAAAgAAAAAAAAAAABAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Menu\Pages\ViewResultMenuWPF.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ViewWPF.Menu.Pages.ViewRulesMenuWPF" Collapsed="true">
+    <Position X="5.5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EABAAggAAAAAAgAAAAAAAQAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Menu\Pages\ViewRulesMenuWPF.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ViewWPF.Menu.Pages.ViewUsernameMenuWPF" Collapsed="true">
+    <Position X="3.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EABAAggAAAAAAgAAAAEAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Menu\Pages\ViewUsernameMenuWPF.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ViewConsole.ConsoleWriter" Collapsed="true">
+    <Position X="1.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAACCAAAAAAAAAAQIAEDAEACAAAAIAAAAABAEAAE=</HashCode>
+      <FileName>ConsoleWriter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ViewConsole.Frame" Collapsed="true">
+    <Position X="1.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAAABAAAIAAAAAAIAEAAAAAACAAQAACAAAEAQAA=</HashCode>
+      <FileName>Frame.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ViewConsole.Game.ViewGameConsole" Collapsed="true">
+    <Position X="3.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAoAAAACAiABAAgAAAAAAIAAAAAQACAAAgAAgAA=</HashCode>
+      <FileName>Game\ViewGameConsole.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ViewConsole.Game.ViewCatConsole" Collapsed="true">
+    <Position X="3.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Game\ViewCatConsole.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ViewConsole.Game.Level.ViewLevelConsole" Collapsed="true">
+    <Position X="3.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAA=</HashCode>
+      <FileName>Game\Level\ViewLevelConsole.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ViewConsole.Game.Level.ViewStepConsole" Collapsed="true">
+    <Position X="5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Game\Level\ViewStepConsole.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ViewConsole.Game.Level.ViewTileConsole" Collapsed="true">
+    <Position X="6.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAhAAAAAAAAAAAAAAJQAAAAAACAAAAAA=</HashCode>
+      <FileName>Game\Level\ViewTileConsole.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="ViewConsole.Colors" Collapsed="true">
+    <Position X="1.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAGAARBAAAAAgAEQBAAABAIBAAAAAAAAAAIADAAAAA=</HashCode>
+      <FileName>Colors.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ControllerWPF.Game.GameControllerWPF" Collapsed="true">
+    <Position X="1.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAACAEgAAgAAAIAAAAAAAAAAAAIAFAAAEAAAA=</HashCode>
+      <FileName>Game\GameControllerWPF.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ControllerWPF.Menu.FailMenuControllerWPF" Collapsed="true">
+    <Position X="3.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAAAgAAgAAAAAAAAAAAAAAIAIAAAAAAAAAA=</HashCode>
+      <FileName>Menu\FailMenuControllerWPF.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ControllerWPF.Menu.LevelsMenuControllerWPF" Collapsed="true">
+    <Position X="3.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgAAgAAAAAQAAAAAAAAAAIAAAgAAAAAA=</HashCode>
+      <FileName>Menu\LevelsMenuControllerWPF.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ControllerWPF.Menu.MainMenuControllerWPF" Collapsed="true">
+    <Position X="3.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAAAAAgAAgAAAIAAAAAAABAAEAIAAAAAAAAAA=</HashCode>
+      <FileName>Menu\MainMenuControllerWPF.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ControllerWPF.Menu.RatingMenuControllerWPF" Collapsed="true">
+    <Position X="7.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgAAgAAAAAAAAAAEAAAAAIAAAAAAAAAA=</HashCode>
+      <FileName>Menu\RatingMenuControllerWPF.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ControllerWPF.Menu.ResultMenuControllerWPF" Collapsed="true">
+    <Position X="5.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgAAgAAAAAAAAAAAAAAMAIAAAAAAAAAE=</HashCode>
+      <FileName>Menu\ResultMenuControllerWPF.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ControllerWPF.Menu.RulesMenuControllerWPF" Collapsed="true">
+    <Position X="5.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAAAAAgAAgAAAAAAAAAAAAAAAAIAAAAAAAAAA=</HashCode>
+      <FileName>Menu\RulesMenuControllerWPF.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ControllerWPF.Menu.UsernameMenuControllerWPF" Collapsed="true">
+    <Position X="3.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgAAgAAAAAAAAAAAAAAIAICAAAAAAAAA=</HashCode>
+      <FileName>Menu\UsernameMenuControllerWPF.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

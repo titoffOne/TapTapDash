@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Controller.ControllerBase" Collapsed="true">
+    <Position X="5.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAgEAAAAAAAAAAAAAAAIAAAAAAAAAA=</HashCode>
+      <FileName>ControllerBase.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Controller.ControllersStack" Collapsed="true">
+    <Position X="7" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ControllersStack.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Controller.Menu.UsernameMenuController" Collapsed="true">
+    <Position X="3.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACBAAIAAAAAAAAAAAACAAAIAICAAAAAAAAA=</HashCode>
+      <FileName>Menu\UsernameMenuController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Controller.Menu.MainMenuController" Collapsed="true">
+    <Position X="5.25" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAACAAAAAAAAAIAAAQAAABIAEAIAAAAAAAAAA=</HashCode>
+      <FileName>Menu\MainMenuController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Controller.Menu.ResultMenuController" Collapsed="true">
+    <Position X="7" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Menu\ResultMenuController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Controller.Menu.RulesMenuController" Collapsed="true">
+    <Position X="7" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QABAAAAAACAAAAAAAAAAAAAAAAEAAAAAIAAAAAAAAAA=</HashCode>
+      <FileName>Menu\RulesMenuController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Controller.Menu.FailMenuController" Collapsed="true">
+    <Position X="5.25" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Menu\FailMenuController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Controller.Menu.LevelsMenuController" Collapsed="true">
+    <Position X="3.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAACAAAAAAAAAAAQIAAAAAAAAAIAAAgAAAAAA=</HashCode>
+      <FileName>Menu\LevelsMenuController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Controller.Menu.RatingMenuController" Collapsed="true">
+    <Position X="8.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAAAAAAAAEAAAAAMAACAAAAAAA=</HashCode>
+      <FileName>Menu\RatingMenuController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Controller.Game.GameController" Collapsed="true">
+    <Position X="1.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAIAAAAAAgAgAIAIAAAAAAAAAA=</HashCode>
+      <FileName>Game\GameController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

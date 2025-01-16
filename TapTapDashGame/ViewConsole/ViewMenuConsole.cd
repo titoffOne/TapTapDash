@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ViewConsole.Frame" Collapsed="true">
+    <Position X="1.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAAABAAAIAAAAAAIAEAAAAAACAAQAACAAAEAQAA=</HashCode>
+      <FileName>Frame.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ViewConsole.ConsoleWriter" Collapsed="true">
+    <Position X="1.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAACCAAAAAAAAAAQIAEDAEACAAAAIAAAAABAEAAE=</HashCode>
+      <FileName>ConsoleWriter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ViewConsole.Menu.ViewMenuItemConsole" Collapsed="true">
+    <Position X="3.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAAAAAAAAAAAAEAEAAAAAAAAAAA=</HashCode>
+      <FileName>Menu\ViewMenuItemConsole.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ViewConsole.Menu.Pages.ViewFailMenuConsole" Collapsed="true">
+    <Position X="3.75" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAACAAAAgAAAAAAAAAAAAAAAAAAAAAAAQAAAAA=</HashCode>
+      <FileName>Menu\Pages\ViewFailMenuConsole.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ViewConsole.Menu.Pages.ViewLevelsMenuConsole" Collapsed="true">
+    <Position X="3.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAACAAAAgAAAAAAAAAAAAAAAAAAAAAAAQAAAAA=</HashCode>
+      <FileName>Menu\Pages\ViewLevelsMenuConsole.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ViewConsole.Menu.Pages.ViewMainMenuConsole" Collapsed="true">
+    <Position X="3.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAACAAAAgAAAAAAAAAAAAAAAAAAAAAAAQAAAAA=</HashCode>
+      <FileName>Menu\Pages\ViewMainMenuConsole.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ViewConsole.Menu.Pages.ViewRatingMenuConsole" Collapsed="true">
+    <Position X="7.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAACAAAAgQAAAAAAAAAAAAAAAAAAAAAAQAAAAA=</HashCode>
+      <FileName>Menu\Pages\ViewRatingMenuConsole.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ViewConsole.Menu.Pages.ViewResultMenuConsole" Collapsed="true">
+    <Position X="5.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgBAAAAACAAAAgAAAAAAAAAAAAAAAAAAAAAAAQAAAAA=</HashCode>
+      <FileName>Menu\Pages\ViewResultMenuConsole.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ViewConsole.Menu.Pages.ViewRulesMenuConsole" Collapsed="true">
+    <Position X="5.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAACAAAAgAAAAAAAAAAAAAAAAAEAAAAAQAAAAA=</HashCode>
+      <FileName>Menu\Pages\ViewRulesMenuConsole.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ViewConsole.Menu.Pages.ViewUsernameMenuConsole" Collapsed="true">
+    <Position X="3.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAAAAAAgAgAAAAAAAAAAAAAAAAAAAAAQAAAAA=</HashCode>
+      <FileName>Menu\Pages\ViewUsernameMenuConsole.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="ViewConsole.Colors" Collapsed="true">
+    <Position X="1.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAGAARBAAAAAgAEQBAAABAIBAAAAAAAAAAIADAAAAA=</HashCode>
+      <FileName>Colors.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

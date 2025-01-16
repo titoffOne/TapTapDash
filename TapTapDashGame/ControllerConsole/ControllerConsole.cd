@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ControllerConsole.Game.GameControllerConsole" Collapsed="true">
+    <Position X="1.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAAEAAAgAAAIAAAAAAAAAAAAAAFAAAEAAAA=</HashCode>
+      <FileName>Game\GameControllerConsole.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ControllerConsole.Menu.FailMenuControllerConsole" Collapsed="true">
+    <Position X="3.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAAAAAAgAAAAAAAAAAAAAAIAAAAAAAAAAAA=</HashCode>
+      <FileName>Menu\FailMenuControllerConsole.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ControllerConsole.Menu.LevelsMenuControllerConsole" Collapsed="true">
+    <Position X="3.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAgAAAAAQAAAAAAAAAAAAAAgAAAAAA=</HashCode>
+      <FileName>Menu\LevelsMenuControllerConsole.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ControllerConsole.Menu.MainMenuControllerConsole" Collapsed="true">
+    <Position X="3.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAAAAAAAAgAAAIAAAAAAABAAEAAAAAAAAAAAA=</HashCode>
+      <FileName>Menu\MainMenuControllerConsole.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ControllerConsole.Menu.RatingMenuControllerConsole" Collapsed="true">
+    <Position X="6.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAgAAAAAAAAAAEAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Menu\RatingMenuControllerConsole.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ControllerConsole.Menu.ResultMenuControllerConsole" Collapsed="true">
+    <Position X="5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAgAAAAAAAAAAAAAAMAAAAAAAAAAAE=</HashCode>
+      <FileName>Menu\ResultMenuControllerConsole.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ControllerConsole.Menu.RulesMenuControllerConsole" Collapsed="true">
+    <Position X="5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Menu\RulesMenuControllerConsole.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ControllerConsole.Menu.UsernameMenuControllerConsole" Collapsed="true">
+    <Position X="3.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAgAAAAAAAAAAAAAAIAACAAAAAAAAA=</HashCode>
+      <FileName>Menu\UsernameMenuControllerConsole.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

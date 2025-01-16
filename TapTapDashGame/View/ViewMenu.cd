@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="View.ViewBase" Collapsed="true">
+    <Position X="5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ViewBase.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="View.Menu.ViewMenu" Collapsed="true">
+    <Position X="5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAAAAACgAAAAAAAAAAAAAoAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Menu\ViewMenu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="View.Menu.ViewMenuItem" Collapsed="true">
+    <Position X="6.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAgAAAAAAAEAAAgAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Menu\ViewMenuItem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="View.Menu.Pages.ViewMainMenu" Collapsed="true">
+    <Position X="5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Menu\Pages\ViewMainMenu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="View.Menu.Pages.ViewLevelsMenu" Collapsed="true">
+    <Position X="6.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Menu\Pages\ViewLevelsMenu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="View.Menu.Pages.ViewRatingMenu" Collapsed="true">
+    <Position X="3.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Menu\Pages\ViewRatingMenu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="View.Menu.Pages.ViewRulesMenu" Collapsed="true">
+    <Position X="3.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Menu\Pages\ViewRulesMenu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="View.Menu.Pages.ViewUsernameMenu" Collapsed="true">
+    <Position X="5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Menu\Pages\ViewUsernameMenu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

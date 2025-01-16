@@ -1,0 +1,94 @@
+﻿{
+  "LevelNumber": 2,
+  "Steps": [
+    {
+      "Direction": "U",
+      "Tiles": [
+        { "TileType": "Start" },
+        { "TileType": "Coin" },
+        { "TileType": "TurnRight" }
+      ]
+    },
+    {
+      "Direction": "R",
+      "Tiles": [
+        { "TileType": "Coin" },
+        { "TileType": "TurnRight" },
+      ]
+    },
+    {
+      "Direction": "D",
+      "Tiles": [
+        { "TileType": "Empty" },
+        { "TileType": "Coin" },
+        { "TileType": "Coin" },
+        { "TileType": "Coin" },
+        { "TileType": "TurnRight" }
+      ]
+    },
+    {
+      "Direction": "L",
+      "Tiles": [
+        { "TileType": "Coin" },
+        { "TileType": "Coin" },
+        { "TileType": "Empty" },
+        { "TileType": "TurnRight" }
+      ]
+    },
+    {
+      "Direction": "U",
+      "Tiles": [
+        { "TileType": "Empty" },
+        { "TileType": "Coin" },
+        { "TileType": "Empty" },
+        { "TileType": "Empty" },
+        { "TileType": "Empty" },
+        { "TileType": "Coin" },
+        { "TileType": "Empty" },
+        { "TileType": "TurnRight" }
+      ]
+    },
+    {
+      "Direction": "R",
+      "Tiles": [
+        { "TileType": "Empty" },
+        { "TileType": "Coin" },
+        { "TileType": "Empty" },
+        { "TileType": "Empty" },
+        { "TileType": "Coin" },
+        { "TileType": "TurnRight" }
+      ]
+    },
+    {
+      "Direction": "D",
+      "Tiles": [
+        { "TileType": "Empty" },
+        { "TileType": "Coin" },
+        { "TileType": "Empty" },
+        { "TileType": "Empty" },
+        { "TileType": "Coin" },
+        { "TileType": "Coin" },
+        { "TileType": "Coin" },
+        { "TileType": "Coin" },
+        { "TileType": "Coin" },
+        { "TileType": "TurnRight" }
+      ]
+    },
+    {
+      "Direction": "L",
+      "Tiles": [
+        { "TileType": "Empty" },
+        { "TileType": "Coin" },
+        { "TileType": "Empty" },
+        { "TileType": "TurnLeft" }
+      ]
+    },
+    {
+      "Direction": "D",
+      "Tiles": [
+        { "TileType": "Empty" },
+        { "TileType": "End" }
+      ]
+    }
+  ]
+}

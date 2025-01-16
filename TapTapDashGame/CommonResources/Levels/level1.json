@@ -1,0 +1,46 @@
+﻿{
+  "LevelNumber": 1,
+  "Steps": [
+    {
+      "Direction": "U",
+      "Tiles": [
+        { "TileType": "Start" },
+        { "TileType": "Coin" },
+        { "TileType": "Coin" },
+        { "TileType": "Coin" },
+        { "TileType": "Forward" },
+        { "TileType": "Abyss" }
+      ]
+    },
+    {
+      "Direction": "U",
+      "Tiles": [
+        { "TileType": "Empty" },
+        { "TileType": "Coin" },
+        { "TileType": "TurnLeft" }
+      ]
+    },
+    {
+      "Direction": "L",
+      "Tiles": [
+        { "TileType": "Forward" },
+        { "TileType": "Abyss" }
+      ]
+    },
+    {
+      "Direction": "L",
+      "Tiles": [
+        { "TileType": "Empty" },
+        { "TileType": "Forward" },
+        { "TileType": "Abyss" }
+      ]
+    },
+    {
+      "Direction": "L",
+      "Tiles": [
+        { "TileType": "Coin" },
+        { "TileType": "End" }
+      ]
+    }
+  ]
+}

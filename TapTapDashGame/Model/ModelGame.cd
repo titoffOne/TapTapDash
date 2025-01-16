@@ -1,0 +1,103 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Model.Game.Cat" Collapsed="true">
+    <Position X="2.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQACgAoAAAAAgIAgADCAQAAAAAAAACAAAAAAAEAAAAA=</HashCode>
+      <FileName>Game\Cat.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Model.Game.Game" Collapsed="true">
+    <Position X="2.25" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAAAAUBAAABEQAAAgAAAAAAAAABAABIEAAACAA=</HashCode>
+      <FileName>Game\Game.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Model.Game.Records.Rating" Collapsed="true">
+    <Position X="7.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAIAAACAAAAAAQAAAAAAAAAAAAAAAAIAAARAggAAAAA=</HashCode>
+      <FileName>Game\Rating\Rating.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Model.Game.Records.RatingInfo" Collapsed="true">
+    <Position X="7.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAIAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Game\Rating\RatingInfo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Model.Geometry.Position&lt;T&gt;" Collapsed="true">
+    <Position X="0.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAYAA=</HashCode>
+      <FileName>Geometry\Position.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Model.Geometry.Rectangle&lt;T&gt;" Collapsed="true">
+    <Position X="0.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAQAAgIAgAAAAAAAAIAAAAAQAAAAAAAAQAAA=</HashCode>
+      <FileName>Geometry\Rectangle.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Model.Geometry.Size&lt;T&gt;" Collapsed="true">
+    <Position X="0.5" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Geometry\Size.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Model.Game.Levels.Level" Collapsed="true">
+    <Position X="5.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Game\Levels\Level.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Model.Game.Levels.LevelReader" Collapsed="true">
+    <Position X="5.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAAAAAEAAAAAAABAAAAAAAAAAAAAAABAEAAAAA=</HashCode>
+      <FileName>Game\Levels\LevelReader.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Model.Game.Levels.Step" Collapsed="true">
+    <Position X="5.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAACAAAAAAAAAAAAIAAAAAAAAAAAA=</HashCode>
+      <FileName>Game\Levels\Step.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Model.Game.Levels.Tile" Collapsed="true">
+    <Position X="5.75" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAAIAAgIAgAAAAAAAAAAAAAAAAAQQAAAAAAAA=</HashCode>
+      <FileName>Game\Levels\Tile.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="Model.INeedRedraw" Collapsed="true">
+    <Position X="2.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAA=</HashCode>
+      <FileName>INeedRedraw.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="Model.Game.Levels.DirectionType" Collapsed="true">
+    <Position X="4" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAACACAAAAAAAI=</HashCode>
+      <FileName>Game\Levels\DirectionType.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Model.Game.Levels.TileTypes" Collapsed="true">
+    <Position X="4" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAACAiAAAAAAIABAAAAAAAAEAAAAAAAAAAAAI=</HashCode>
+      <FileName>Game\Levels\TileTypes.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

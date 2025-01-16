@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Model.Menu.Menu" Collapsed="true">
+    <Position X="4" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAgAAAAAAACEABAAAAAAAAgAAAAAACAAAAEAABAIE=</HashCode>
+      <FileName>Menu\Menu.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Model.Menu.MenuItem" Collapsed="true">
+    <Position X="5.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAQAwRAAAAAI=</HashCode>
+      <FileName>Menu\MenuItem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Model.Menu.Pages.UsernameMenu" Collapsed="true">
+    <Position X="1.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Menu\Pages\UsernameMenu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Model.Menu.Pages.FailMenu" Collapsed="true">
+    <Position X="3.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Menu\Pages\FailMenu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Model.Menu.Pages.LevelsMenu" Collapsed="true">
+    <Position X="1.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAoAAIEAAAABAAAAAAAAAAAAAAAACCAAAABAA=</HashCode>
+      <FileName>Menu\Pages\LevelsMenu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Model.Menu.Pages.MainMenu" Collapsed="true">
+    <Position X="3.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAABAgAAIAAAAA=</HashCode>
+      <FileName>Menu\Pages\MainMenu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Model.Menu.Pages.RatingMenu" Collapsed="true">
+    <Position X="5.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Menu\Pages\RatingMenu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Model.Menu.Pages.ResultMenu" Collapsed="true">
+    <Position X="5.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Menu\Pages\ResultMenu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Model.Menu.Pages.RulesMenu" Collapsed="true">
+    <Position X="7.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Menu\Pages\RulesMenu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="Model.INeedRedraw" Collapsed="true">
+    <Position X="4" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAA=</HashCode>
+      <FileName>INeedRedraw.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
